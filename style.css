@@ -1,0 +1,14 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: linear-gradient(red,orange,yellow,green,violet,purple,blue);
+	border-radius: 20px;
+}
